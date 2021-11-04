@@ -1,6 +1,10 @@
 ## Lean into the future of shitcoins!
 
-Welcome to the official site of Leancoin, a totally serious ERC-20 token [deployed on Polygon.](https://polygonscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+Welcome to the official site of Leancoin, a totally serious ERC-20 token deployed on Polygon. Let's all raise a glass of Dirty Sprite to a purple tomorrow.
+
+# Polygon smart contract address
+
+* [0x64bc251b0eb9200948c9155573cd459c5e17c6a4](https://polygonscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 
 # Where can I get some?
 
