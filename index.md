@@ -11,8 +11,19 @@ Welcome to the official site of Leancoin, a totally serious ERC-20 token [deploy
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [SushiSwap](https://app.sushi.com/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 
+# Yield Farming
+
+* [MATIC/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0x4e07cc76785a17c5222f8ff05962e402984bc69d)
+* [DAI/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0xbd99062e97e95e3dc9433488e3c2a52839f75448)
+* [SIPLEAN (Single Token)](https://app.dodoex.io/mining?network=polygon&mining=0xd3f5179770341f9de6a7b9eae517de1708bc361f)
+
+<p>
 <p>
   
 <center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/baStH4Q0DSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+<p>
+  
+Please note: any type of cryptocurrency, especially a memecoin such as this, is inherently risky and it is possible to lose money by holding it, acting as a liquidity provider, yield farming, and generally having anything to do with it.
