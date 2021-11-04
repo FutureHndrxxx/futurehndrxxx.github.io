@@ -17,6 +17,7 @@ Welcome to the official site of Leancoin, a totally serious ERC-20 token [deploy
 * [DAI/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0xbd99062e97e95e3dc9433488e3c2a52839f75448)
 * [SIPLEAN (Single Token)](https://app.dodoex.io/mining?network=polygon&mining=0xd3f5179770341f9de6a7b9eae517de1708bc361f)
 * [DAI (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x4c55af4187c1b44cc4afa8503ddc5a8fc49ac21d)
+* [USDT (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x797a9564626d1b1270e4beb31d73582a4f830988)
 
 <p>
 <p>
