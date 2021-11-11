@@ -26,6 +26,7 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
 * [Pangolin](https://app.pangolin.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [SushiSwap](https://app.sushi.com/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+* [Viper](https://viper.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 
 # Yield Farming
 
