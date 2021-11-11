@@ -20,6 +20,7 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
 * [DMM](https://dmm.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Dodoex](https://app.dodoex.io/exchange/MATIC-SIPLEAN?network=polygon)
 * [Dyfin](https://exchange.dfyn.network/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+* [JetSwap](https://exchange.jetswap.finance/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Matcha](https://matcha.xyz/markets/137/0x64bc251b0eb9200948c9155573cd459c5e17c6a4/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [Pangolin](https://app.pangolin.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
