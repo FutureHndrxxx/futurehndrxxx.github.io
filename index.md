@@ -22,6 +22,7 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
 * [Dyfin](https://exchange.dfyn.network/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [JetSwap](https://exchange.jetswap.finance/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Matcha](https://matcha.xyz/markets/137/0x64bc251b0eb9200948c9155573cd459c5e17c6a4/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+* [PancakeSwap](https://pancakeswap.finance/swap/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Pangolin](https://app.pangolin.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [SushiSwap](https://app.sushi.com/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
