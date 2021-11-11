@@ -2,7 +2,7 @@
 
 Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
 
-# ERC-20 smart contract address across all blockchains: 
+# ERC20 smart contract address across all blockchains: 
 
 * 0x64bc251b0eb9200948c9155573cd459c5e17c6a4
 
