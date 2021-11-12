@@ -1,6 +1,8 @@
 ## Lean into the future of shitcoins!
 
-Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
+Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Ethereum, Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
+
+Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
 # ERC20 smart contract address across all blockchains: 
 
@@ -8,6 +10,7 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
 
 # Open source ERC20 smart contract links for each blockchain:
 
+* [Ethereum](https://etherscan.io/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Polygon](https://polygonscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Harmony One](https://explorer.harmony.one/address/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Avalanche C-Chain](https://snowtrace.io/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
@@ -50,4 +53,4 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
   
 
   
-<i>Please note: Any type of cryptocurrency, especially a memecoin such as this, is inherently risky and it is possible to lose money by holding it, acting as a liquidity provider, yield farming, and generally having anything to do with it. Do not spend money you cannot afford to lose and remember - this is a memecoin, i.e. literally just a joke; it is not a financial instrument and you should not ever treat it as a serious investment of any kind.</i>
+<i>Please note: Any type of cryptocurrency, especially a memecoin such as this, is inherently risky and it is possible to lose money by holding it, acting as a liquidity provider, yield farming, and generally having anything to do with it. Do not spend money you cannot afford to lose and remember - this is a memecoin, i.e. literally just a joke; it is not a financial instrument and you should not ever treat it as a serious investment of any kind. There was no ICO, Leancoin is offered only through DEX's or airdrops.</i>
