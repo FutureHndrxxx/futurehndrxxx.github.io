@@ -4,9 +4,13 @@ Welcome to the official site of Leancoin, a totally serious ERC20 token deployed
 
 Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
-# ERC20 smart contract address across all blockchains: 
+# Token address across all blockchains (except xDai): 
 
 * 0x64bc251b0eb9200948c9155573cd459c5e17c6a4
+
+# xDai token address:
+
+* 0xbFF87Ef5C0d64940B4F03de943bC06BB765d4D90
 
 # Open source ERC20 smart contract links for each blockchain:
 
@@ -16,6 +20,7 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 * [Avalanche C-Chain](https://snowtrace.io/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Fantom Opera](https://ftmscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Binance Smart Chain](https://bscscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+* [xDai](https://blockscout.com/xdai/mainnet/token/0xbFF87Ef5C0d64940B4F03de943bC06BB765d4D90)
 
 # Where can I get some?
 
