@@ -38,7 +38,7 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
 # Yield Farming
 
-* [Stake your LEANCOIN in the crowd liquidity pool for high APR!](https://app.dodoex.io/cp/0x737a822e5e7e16ed2e885fd675c6797681713cf2?network=polygon)
+* [Stake your MATIC in the crowd liquidity pool for a share of 400,000 SIPLEAN!](https://app.dodoex.io/cp/join/0x737a822e5e7e16ed2e885fd675c6797681713cf2?network=polygon)
 * [MATIC/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0x4e07cc76785a17c5222f8ff05962e402984bc69d)
 * [DAI/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0xbd99062e97e95e3dc9433488e3c2a52839f75448)
 * [SIPLEAN (Single Token)](https://app.dodoex.io/mining?network=polygon&mining=0xd3f5179770341f9de6a7b9eae517de1708bc361f)
