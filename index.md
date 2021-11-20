@@ -45,6 +45,11 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 * [DAI (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x4c55af4187c1b44cc4afa8503ddc5a8fc49ac21d)
 * [USDT (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x797a9564626d1b1270e4beb31d73582a4f830988)
 
+# Listed on...
+
+* [Blockspot](https://blockspot.io/coin/leancoin/)
+* [Coinranking](https://coinranking.com/coin/jvD6qXjNi+leancoin-siplean)
+
 <p>
 <p>
   
