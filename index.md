@@ -1,4 +1,4 @@
-## Lean into the future of shitcoins!
+## Lean into the future of memecoins!
 
 Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Ethereum, Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
 
@@ -41,6 +41,7 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 * [Stake your MATIC in the crowd liquidity pool for a share of 400,000 SIPLEAN!](https://app.dodoex.io/cp/join/0x737a822e5e7e16ed2e885fd675c6797681713cf2?network=polygon)
 * [MATIC/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0x4e07cc76785a17c5222f8ff05962e402984bc69d)
 * [DAI/SIPLEAN](https://app.dodoex.io/mining?network=polygon&mining=0xbd99062e97e95e3dc9433488e3c2a52839f75448)
+* [BUSD/SIPLEAN (BSC Liquidity Pool)](https://app.dodoex.io/liquidity?poolAddress=0xd6e6f03685bc97e2264859de4685bca62b8660d3&network=BSC)
 * [SIPLEAN (Single Token)](https://app.dodoex.io/mining?network=polygon&mining=0xd3f5179770341f9de6a7b9eae517de1708bc361f)
 * [DAI (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x4c55af4187c1b44cc4afa8503ddc5a8fc49ac21d)
 * [USDT (Rewards in SIPLEAN)](https://app.dodoex.io/mining?network=polygon&mining=0x797a9564626d1b1270e4beb31d73582a4f830988)
