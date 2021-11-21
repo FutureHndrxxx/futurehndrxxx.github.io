@@ -62,6 +62,11 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 <p>
 <p>
   
-
+  <i>[Contact.](mailto:admin@leanco.in) <br />
+  [PGP public key.](https://leanco.in/pgp.txt)</i>
+  
+<p>
+<p>
+<p>
   
 <i>Please note: Any type of cryptocurrency, especially a memecoin such as this, is inherently risky and it is possible to lose money by holding it, acting as a liquidity provider, yield farming, and generally having anything to do with it. Do not spend money you cannot afford to lose and remember - this is a memecoin, i.e. literally just a joke; it is not a financial instrument and you should not ever treat it as a serious investment of any kind. There was no ICO, Leancoin is offered only through DEX's or airdrops.</i>
