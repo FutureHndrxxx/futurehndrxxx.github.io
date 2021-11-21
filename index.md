@@ -62,8 +62,8 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 <p>
 <p>
   
-  [<i>Contact.</i>](mailto:admin@leanco.in)
-  [<i>PGP public key.</i>](https://leanco.in/pgp.txt)
+  [Contact.](mailto:admin@leanco.in)
+  [PGP public key.](https://leanco.in/pgp.txt)
   
 <p>
 <p>
