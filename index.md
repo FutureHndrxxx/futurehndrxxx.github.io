@@ -2,9 +2,11 @@
 
 Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Ethereum, Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
 
+SIPLEAN has no transfer fee, no artificial deflation, fixed supply, a verified open-source contract, liquidity on most major DEX's across blockchains, and yield farm staking with big rewards on Polygon.
+
 Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
-# Token address across all blockchains (except xDai): 
+# Token address across most blockchains: 
 
 * 0x64bc251b0eb9200948c9155573cd459c5e17c6a4
 
