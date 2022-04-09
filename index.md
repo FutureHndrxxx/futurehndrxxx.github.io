@@ -41,7 +41,8 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 * [Pangolin](https://app.pangolin.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [SushiSwap](https://app.sushi.com/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
-* [UniSwap (Arbitrum)](https://app.uniswap.org/swap?outputCurrency=0xdb8d401f3b72e8f2417855e3a86e6304e170eca9)
+* [UniSwap (Arbitrum)](https://app.uniswap.org/#/swap?outputCurrency=0xdb8d401f3b72e8f2417855e3a86e6304e170eca9&chain=arbitrum)
+* [UniSwap (Polygon)](https://app.uniswap.org/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4&chain=polygon)
 * [Viper](https://viper.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 
 # Yield Farming
