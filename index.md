@@ -1,6 +1,6 @@
 ## Lean into the future of memecoins!
 
-Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Ethereum, Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
+Welcome to the official site of Leancoin, a totally serious ERC20 token deployed on Ethereum, Arbitrum, Polygon, Harmony, Avalanche, Fantom, and BSC. Let blockchains not be barriers. Instead let's all raise a glass of Dirty Sprite to a purple tomorrow.
 
 SIPLEAN has no transfer fee, no artificial deflation, fixed supply, a verified open-source contract, liquidity on most major DEX's across blockchains, and yield farm staking with big rewards on Polygon.
 
@@ -10,6 +10,10 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
 * 0x64bc251b0eb9200948c9155573cd459c5e17c6a4
 
+# Arbitrum token address:
+
+* 0xdb8d401f3b72e8f2417855e3a86e6304e170eca9
+
 # xDai token address:
 
 * 0xbFF87Ef5C0d64940B4F03de943bC06BB765d4D90
@@ -17,6 +21,7 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 # Open source ERC20 smart contract links for each blockchain:
 
 * [Ethereum](https://etherscan.io/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+* [Arbitrum](https://arbiscan.io/token/0xdb8d401f3b72e8f2417855e3a86e6304e170eca9)
 * [Polygon](https://polygonscan.com/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Harmony One](https://explorer.harmony.one/address/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [Avalanche C-Chain](https://snowtrace.io/token/0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
@@ -36,6 +41,7 @@ Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 * [Pangolin](https://app.pangolin.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 * [SushiSwap](https://app.sushi.com/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
+* [UniSwap (Arbitrum)](https://app.uniswap.org/swap?outputCurrency=0xdb8d401f3b72e8f2417855e3a86e6304e170eca9)
 * [Viper](https://viper.exchange/#/swap?outputCurrency=0x64bc251b0eb9200948c9155573cd459c5e17c6a4)
 
 # Yield Farming
