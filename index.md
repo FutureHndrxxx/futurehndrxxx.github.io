@@ -6,7 +6,7 @@ SIPLEAN has no transfer fee, no artificial deflation, fixed supply, a verified o
 
 Check out our [Telegram channel](https://t.me/LeancoinToken) for updates!
 
-**[Check out the FREE AIRDROP of Leancoin currently taking place on the Polygon Network!](https://leanco.in/Airdrop/) The airdrop is using an open source smart contract linked at the botton of the page which also shows proof of transactions going through!**
+**[Check out the FREE AIRDROP of Leancoin currently taking place on the Polygon Network!](https://leanco.in/Airdrop/) As a connect you can trust, we are of course running the airdrop on an open source smart contract linked at the bottom of the page. As a bonus, this also shows you proof of the transactions going through! Once supply is gone, it's gone, so grab your share today!**
 
 # Token address across most blockchains: 
 
